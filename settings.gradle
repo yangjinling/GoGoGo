@@ -1,1 +1,1 @@
-include ':app', ':myapplication', ':appMVP'
+include ':app', ':myapplication', ':appMVP', ':sample-okhttp'
