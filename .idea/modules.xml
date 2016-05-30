@@ -7,9 +7,11 @@
       <module fileurl="file://$PROJECT_DIR$/appMVP/appMVP.iml" filepath="$PROJECT_DIR$/appMVP/appMVP.iml" />
       <module fileurl="file://$PROJECT_DIR$/appZuoYouHua/appZuoYouHua.iml" filepath="$PROJECT_DIR$/appZuoYouHua/appZuoYouHua.iml" />
       <module fileurl="file://$PROJECT_DIR$/goodview/goodview.iml" filepath="$PROJECT_DIR$/goodview/goodview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-okhttp/sample-okhttp.iml" filepath="$PROJECT_DIR$/sample-okhttp/sample-okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleLoadingAnimation/sampleLoadingAnimation.iml" filepath="$PROJECT_DIR$/sampleLoadingAnimation/sampleLoadingAnimation.iml" />
     </modules>
   </component>
 </project>

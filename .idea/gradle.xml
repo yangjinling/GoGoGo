@@ -12,9 +12,11 @@
             <option value="$PROJECT_DIR$/appMVP" />
             <option value="$PROJECT_DIR$/appZuoYouHua" />
             <option value="$PROJECT_DIR$/goodview" />
+            <option value="$PROJECT_DIR$/lib" />
             <option value="$PROJECT_DIR$/myapplication" />
             <option value="$PROJECT_DIR$/sample" />
             <option value="$PROJECT_DIR$/sample-okhttp" />
+            <option value="$PROJECT_DIR$/sampleLoadingAnimation" />
           </set>
         </option>
         <option name="myModules">
@@ -24,9 +26,11 @@
             <option value="$PROJECT_DIR$/appMVP" />
             <option value="$PROJECT_DIR$/appZuoYouHua" />
             <option value="$PROJECT_DIR$/goodview" />
+            <option value="$PROJECT_DIR$/lib" />
             <option value="$PROJECT_DIR$/myapplication" />
             <option value="$PROJECT_DIR$/sample" />
             <option value="$PROJECT_DIR$/sample-okhttp" />
+            <option value="$PROJECT_DIR$/sampleLoadingAnimation" />
           </set>
         </option>
       </GradleProjectSettings>

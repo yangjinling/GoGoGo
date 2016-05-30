@@ -1,1 +1,1 @@
-include ':app', ':myapplication', ':appMVP', ':sample-okhttp', ':sample', ':goodview', ':appZuoYouHua'
+include ':app', ':myapplication', ':appMVP', ':sample-okhttp', ':sample', ':goodview', ':appZuoYouHua', ':sampleLoadingAnimation', ':lib'
